@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dev_mu/measuregeneric_01"
+	"$surfaceprop" "concrete"
+	"$color" "{ 155 155 155 }"
+
+	"%keywords" "dev,grey,darkgrey,mapperunion"
+}

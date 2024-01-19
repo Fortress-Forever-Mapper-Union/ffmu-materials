@@ -1,0 +1,1 @@
+a set of team colored and team agnostic (not team colored) dev textures with various patterns.
